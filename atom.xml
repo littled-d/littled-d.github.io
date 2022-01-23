@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>青衫</title>
+  
+  <subtitle>青衫</subtitle>
+  <link href="https://xiejp.cn/atom.xml" rel="self"/>
+  
+  <link href="https://xiejp.cn/"/>
+  <updated>2022-01-23T04:58:23.893Z</updated>
+  <id>https://xiejp.cn/</id>
+  
+  <author>
+    <name>xiejp</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://xiejp.cn/2022/01/17/hello-world/"/>
+    <id>https://xiejp.cn/2022/01/17/hello-world/</id>
+    <published>2022-01-17T12:32:44.873Z</published>
+    <updated>2022-01-23T04:58:23.893Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>JavaWeb</title>
+    <link href="https://xiejp.cn/2022/01/16/javaweb/"/>
+    <id>https://xiejp.cn/2022/01/16/javaweb/</id>
+    <published>2022-01-16T05:54:17.000Z</published>
+    <updated>2022-01-23T10:02:14.634Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Java" scheme="https://xiejp.cn/categories/Java/"/>
+    
+    <category term="JavaWeb" scheme="https://xiejp.cn/categories/Java/JavaWeb/"/>
+    
+    
+    <category term="JavaWeb" scheme="https://xiejp.cn/tags/JavaWeb/"/>
+    
+  </entry>
+  
+</feed>
