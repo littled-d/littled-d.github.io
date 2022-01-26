@@ -6,7 +6,7 @@
   <link href="https://xiejp.cn/atom.xml" rel="self"/>
   
   <link href="https://xiejp.cn/"/>
-  <updated>2022-01-26T03:54:07.572Z</updated>
+  <updated>2022-01-26T15:06:33.107Z</updated>
   <id>https://xiejp.cn/</id>
   
   <author>
@@ -17,14 +17,37 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>AJAXandJSON</title>
+    <link href="https://xiejp.cn/2022/01/26/ajaxandjson/"/>
+    <id>https://xiejp.cn/2022/01/26/ajaxandjson/</id>
+    <published>2022-01-26T04:24:21.000Z</published>
+    <updated>2022-01-26T15:06:33.107Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;AJAX技术是前端常用的技术，JSON也是前后端交互最常用的数据格式；&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Java" scheme="https://xiejp.cn/categories/Java/"/>
+    
+    <category term="JavaWeb" scheme="https://xiejp.cn/categories/Java/JavaWeb/"/>
+    
+    
+    <category term="AJAX" scheme="https://xiejp.cn/tags/AJAX/"/>
+    
+    <category term="JSON" scheme="https://xiejp.cn/tags/JSON/"/>
+    
+  </entry>
+  
+  <entry>
     <title>JSP</title>
     <link href="https://xiejp.cn/2022/01/23/jsp/"/>
     <id>https://xiejp.cn/2022/01/23/jsp/</id>
     <published>2022-01-23T12:27:17.000Z</published>
-    <updated>2022-01-26T03:54:07.572Z</updated>
+    <updated>2022-01-26T14:59:42.339Z</updated>
     
     
-    <summary type="html">&lt;h1 id=&quot;JSP&quot;&gt;&lt;a href=&quot;#JSP&quot; class=&quot;headerlink&quot; title=&quot;JSP&quot;&gt;&lt;/a&gt;JSP&lt;/h1&gt;&lt;p&gt;JSP缺点较多，现在也讲究前后端分离，so JSP也逐渐没落了；此篇文章适用于简单学习与复习；</summary>
+    <summary type="html">&lt;p&gt;JSP缺点较多，现在也讲究前后端分离，so JSP也逐渐没落了；此篇文章适用于简单学习与复习；</summary>
     
     
     
@@ -42,10 +65,10 @@
     <link href="https://xiejp.cn/2022/01/18/javaweb/"/>
     <id>https://xiejp.cn/2022/01/18/javaweb/</id>
     <published>2022-01-18T05:54:17.000Z</published>
-    <updated>2022-01-26T03:53:56.818Z</updated>
+    <updated>2022-01-26T14:59:57.276Z</updated>
     
     
-    <summary type="html">&lt;h1 id=&quot;JavaWeb&quot;&gt;&lt;a href=&quot;#JavaWeb&quot; class=&quot;headerlink&quot; title=&quot;JavaWeb&quot;&gt;&lt;/a&gt;JavaWeb&lt;/h1&gt;&lt;p&gt;记录JavaWeb的Servlet部分的笔记；此篇文章适用于简单学习与复习；&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;记录JavaWeb的Servlet部分的笔记；此篇文章适用于简单学习与复习；&lt;/p&gt;</summary>
     
     
     
