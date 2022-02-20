@@ -6,7 +6,7 @@
   <link href="https://xiejp.cn/atom.xml" rel="self"/>
   
   <link href="https://xiejp.cn/"/>
-  <updated>2022-02-14T16:22:20.698Z</updated>
+  <updated>2022-02-20T15:22:35.095Z</updated>
   <id>https://xiejp.cn/</id>
   
   <author>
@@ -15,6 +15,52 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>用户登录与注册的实现</title>
+    <link href="https://xiejp.cn/2022/02/20/spring-jian-dan-xiang-mu/"/>
+    <id>https://xiejp.cn/2022/02/20/spring-jian-dan-xiang-mu/</id>
+    <published>2022-02-20T14:46:29.000Z</published>
+    <updated>2022-02-20T15:22:35.095Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;此项目是基于SSM框架的简单应用——用户登录与注册的前后端实现！</summary>
+    
+    
+    
+    <category term="project" scheme="https://xiejp.cn/categories/project/"/>
+    
+    
+    <category term="java - SSM" scheme="https://xiejp.cn/tags/java-SSM/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>SpringMVC</title>
+    <link href="https://xiejp.cn/2022/02/15/springmvc/"/>
+    <id>https://xiejp.cn/2022/02/15/springmvc/</id>
+    <published>2022-02-15T10:32:06.000Z</published>
+    <updated>2022-02-20T15:24:39.688Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Java" scheme="https://xiejp.cn/categories/Java/"/>
+    
+    <category term="Spring全家桶" scheme="https://xiejp.cn/categories/Java/Spring%E5%85%A8%E5%AE%B6%E6%A1%B6/"/>
+    
+    
+    <category term="SpringMVC" scheme="https://xiejp.cn/tags/SpringMVC/"/>
+    
+  </entry>
   
   <entry>
     <title>Spring</title>
