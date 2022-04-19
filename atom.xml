@@ -6,7 +6,7 @@
   <link href="https://xiejp.cn/atom.xml" rel="self"/>
   
   <link href="https://xiejp.cn/"/>
-  <updated>2022-02-20T15:22:35.095Z</updated>
+  <updated>2022-04-18T14:58:25.091Z</updated>
   <id>https://xiejp.cn/</id>
   
   <author>
@@ -15,6 +15,273 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>任务</title>
+    <link href="https://xiejp.cn/2022/04/18/ren-wu/"/>
+    <id>https://xiejp.cn/2022/04/18/ren-wu/</id>
+    <published>2022-04-18T14:57:20.000Z</published>
+    <updated>2022-04-18T14:58:25.091Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="任务" scheme="https://xiejp.cn/tags/%E4%BB%BB%E5%8A%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Redis</title>
+    <link href="https://xiejp.cn/2022/03/29/redis/"/>
+    <id>https://xiejp.cn/2022/03/29/redis/</id>
+    <published>2022-03-29T06:22:16.000Z</published>
+    <updated>2022-04-18T14:30:28.384Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;Redis相关知识！</summary>
+    
+    
+    
+    <category term="Redis" scheme="https://xiejp.cn/categories/Redis/"/>
+    
+    
+    <category term="Redis" scheme="https://xiejp.cn/tags/Redis/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>GateWay</title>
+    <link href="https://xiejp.cn/2022/03/27/gateway/"/>
+    <id>https://xiejp.cn/2022/03/27/gateway/</id>
+    <published>2022-03-27T10:14:49.000Z</published>
+    <updated>2022-04-18T15:20:18.292Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Java" scheme="https://xiejp.cn/categories/Java/"/>
+    
+    <category term="Spring全家桶" scheme="https://xiejp.cn/categories/Java/Spring%E5%85%A8%E5%AE%B6%E6%A1%B6/"/>
+    
+    
+    <category term="SpringCloudGateway" scheme="https://xiejp.cn/tags/SpringCloudGateway/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>SpringSecurity与Shiro</title>
+    <link href="https://xiejp.cn/2022/03/27/springsecurity-yu-shiro/"/>
+    <id>https://xiejp.cn/2022/03/27/springsecurity-yu-shiro/</id>
+    <published>2022-03-27T05:41:39.000Z</published>
+    <updated>2022-04-18T15:11:03.492Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Java - Spring全家桶" scheme="https://xiejp.cn/categories/Java-Spring%E5%85%A8%E5%AE%B6%E6%A1%B6/"/>
+    
+    
+    <category term="SpringSercurity - Shiro" scheme="https://xiejp.cn/tags/SpringSercurity-Shiro/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>SpringCloud</title>
+    <link href="https://xiejp.cn/2022/03/26/springcloud/"/>
+    <id>https://xiejp.cn/2022/03/26/springcloud/</id>
+    <published>2022-03-26T13:50:42.000Z</published>
+    <updated>2022-04-18T15:13:24.535Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Java - Spring全家桶" scheme="https://xiejp.cn/categories/Java-Spring%E5%85%A8%E5%AE%B6%E6%A1%B6/"/>
+    
+    
+    <category term="SpringCloud" scheme="https://xiejp.cn/tags/SpringCloud/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>分布式与RPC</title>
+    <link href="https://xiejp.cn/2022/03/21/fen-bu-shi-yu-rpc/"/>
+    <id>https://xiejp.cn/2022/03/21/fen-bu-shi-yu-rpc/</id>
+    <published>2022-03-21T10:33:37.000Z</published>
+    <updated>2022-04-18T15:26:02.390Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;  分布式与RPC复习</summary>
+    
+    
+    
+    <category term="微服务" scheme="https://xiejp.cn/categories/%E5%BE%AE%E6%9C%8D%E5%8A%A1/"/>
+    
+    <category term="java" scheme="https://xiejp.cn/categories/%E5%BE%AE%E6%9C%8D%E5%8A%A1/java/"/>
+    
+    
+    <category term="RPC" scheme="https://xiejp.cn/tags/RPC/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Swagger</title>
+    <link href="https://xiejp.cn/2022/03/20/swagger/"/>
+    <id>https://xiejp.cn/2022/03/20/swagger/</id>
+    <published>2022-03-20T07:10:56.000Z</published>
+    <updated>2022-04-18T15:16:14.070Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;Swagger&quot;&gt;&lt;a href=&quot;#Swagger&quot; class=&quot;headerlink&quot; title=&quot;Swagger&quot;&gt;&lt;/a&gt;Swagger&lt;/h1&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Mybatis与其Plus</title>
+    <link href="https://xiejp.cn/2022/03/19/mybatis-yu-qi-plus/"/>
+    <id>https://xiejp.cn/2022/03/19/mybatis-yu-qi-plus/</id>
+    <published>2022-03-19T08:38:05.000Z</published>
+    <updated>2022-04-18T15:03:31.228Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;Mybatis与其Plus&quot;&gt;&lt;a href=&quot;#Mybatis与其Plus&quot; class=&quot;headerlink&quot; title=&quot;Mybatis与其Plus&quot;&gt;&lt;/a&gt;Mybatis与其Plus&lt;/h1&gt;&lt;p&gt;文章部分参考b站狂神大佬</summary>
+    
+    
+    
+    <category term="Mybatis" scheme="https://xiejp.cn/categories/Mybatis/"/>
+    
+    
+    <category term="Mybatis" scheme="https://xiejp.cn/tags/Mybatis/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>VUE</title>
+    <link href="https://xiejp.cn/2022/03/12/vue/"/>
+    <id>https://xiejp.cn/2022/03/12/vue/</id>
+    <published>2022-03-12T07:26:48.000Z</published>
+    <updated>2022-04-18T15:28:30.928Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="VUE" scheme="https://xiejp.cn/categories/VUE/"/>
+    
+    <category term="前端" scheme="https://xiejp.cn/categories/VUE/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+    <category term="VUE" scheme="https://xiejp.cn/tags/VUE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>设计模式</title>
+    <link href="https://xiejp.cn/2022/03/09/she-ji-mo-shi/"/>
+    <id>https://xiejp.cn/2022/03/09/she-ji-mo-shi/</id>
+    <published>2022-03-09T08:14:53.000Z</published>
+    <updated>2022-04-19T04:03:32.917Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;设计模式是软件工程领域的最佳实践，不是高超的技术，而是总结出来的经验！</summary>
+    
+    
+    
+    <category term="Java" scheme="https://xiejp.cn/categories/Java/"/>
+    
+    <category term="设计模式" scheme="https://xiejp.cn/categories/Java/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    
+    
+    <category term="设计模式" scheme="https://xiejp.cn/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>CSS</title>
+    <link href="https://xiejp.cn/2022/03/02/css/"/>
+    <id>https://xiejp.cn/2022/03/02/css/</id>
+    <published>2022-03-02T03:04:36.000Z</published>
+    <updated>2022-03-03T15:54:52.930Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;CSS&quot;&gt;&lt;a href=&quot;#CSS&quot; class=&quot;headerlink&quot; title=&quot;CSS&quot;&gt;&lt;/a&gt;CSS&lt;/h1&gt;&lt;p&gt;CSS 指层叠样式表 (&lt;strong&gt;C&lt;/strong&gt;ascading &lt;strong&gt;S&lt;/strong&gt;tyle &lt;strong&gt;S&lt;/strong&gt;heets)，样式定义&lt;strong&gt;如何显示&lt;/strong&gt; HTML 元素；</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>HTML</title>
+    <link href="https://xiejp.cn/2022/03/01/html/"/>
+    <id>https://xiejp.cn/2022/03/01/html/</id>
+    <published>2022-03-01T12:13:04.000Z</published>
+    <updated>2022-03-03T15:58:37.255Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;HTML&quot;&gt;&lt;a href=&quot;#HTML&quot; class=&quot;headerlink&quot; title=&quot;HTML&quot;&gt;&lt;/a&gt;HTML&lt;/h1&gt;&lt;p&gt;HTML 是一种在 Web 上使用的通用标记语言。</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>SpringBoot</title>
+    <link href="https://xiejp.cn/2022/02/21/springboot/"/>
+    <id>https://xiejp.cn/2022/02/21/springboot/</id>
+    <published>2022-02-21T06:54:52.000Z</published>
+    <updated>2022-04-18T15:01:18.522Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;SpringBoot&quot;&gt;&lt;a href=&quot;#SpringBoot&quot; class=&quot;headerlink&quot; title=&quot;SpringBoot&quot;&gt;&lt;/a&gt;SpringBoot&lt;/h1&gt;&lt;p&gt;SpringBoot复习!</summary>
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>用户登录与注册的实现</title>
@@ -67,7 +334,7 @@
     <link href="https://xiejp.cn/2022/02/01/spring/"/>
     <id>https://xiejp.cn/2022/02/01/spring/</id>
     <published>2022-02-01T10:03:12.000Z</published>
-    <updated>2022-02-14T16:22:20.698Z</updated>
+    <updated>2022-04-18T15:20:39.308Z</updated>
     
     
       
