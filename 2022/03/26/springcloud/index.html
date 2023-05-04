@@ -40,16 +40,6 @@
 
 
 
-   <style>
-    body{
-       background-image: url(https://cdn.jsdelivr.net/gh/littled-d/littled-d.github.io/medias/background.jpg);
-       background-repeat:no-repeat;
-       background-size: 100% 100%;
-       background-attachment:fixed;
-    }
-</style>
-
-
 
 <body>
     
@@ -438,7 +428,7 @@
                 
                 <div class="post-date info-break-policy">
                     <i class="far fa-calendar-check fa-fw"></i>更新日期:&nbsp;&nbsp;
-                    2022-04-18
+                    2022-07-01
                 </div>
                 
 
@@ -497,10 +487,7 @@
 <p>这些服务基于业务能力构建，并能够通过自动化部署机制来独立部署，这些服务使用不同的编程语言实</p>
 <p>现，以及不同数据存储技术，并保持最低限度的集中式管理。 </p>
 <p><strong>2</strong>、为什么需要微服务</p>
-<p>在传统的IT行业软件大多都是各种独立系统的堆砌，这些系统的问题总结来说就是扩展性差，可靠性不</p>
-<p>高，维护成本高。到后面引入了SOA服务化，但是，由于 SOA 早期均使用了总线模式，这种总线模式是</p>
-<p>与某种技术栈强绑定的，比如：J2EE。这导致很多企业的遗留系统很难对接，切换时间太长，成本太</p>
-<p>高，新系统稳定性的收敛也需要一些时间。 </p>
+<p>在传统的IT行业软件大多都是各种独立系统的堆砌，这些系统的问题总结来说就是扩展性差，可靠性不高，维护成本高。到后面引入了SOA服务化，但是，由于 SOA 早期均使用了总线模式，这种总线模式是与某种技术栈强绑定的，比如：J2EE。这导致很多企业的遗留系统很难对接，切换时间太长，成本太高，新系统稳定性的收敛也需要一些时间。 </p>
 <p><strong>3</strong>、微服务与单体架构区别</p>
 <p>（1）单体架构所有的模块全都耦合在一块，代码量大，维护困难。</p>
 <p>微服务每个模块就相当于一个单独的项目，代码量明显减少，遇到问题也相对来说比较好解决。</p>
@@ -510,19 +497,13 @@
 <p>（3）单体架构所有的模块开发所使用的技术一样。</p>
 <p>微服务每个模块都可以使用不同的开发技术，开发模式更灵活。 </p>
 <p><strong>4</strong>、微服务本质</p>
-<p>（1）微服务，关键其实不仅仅是微服务本身，而是系统要提供一套基础的架构，这种架构使得微服务可</p>
-<p>以独立的部署、运行、升级，不仅如此，这个系统架构还让微服务与微服务之间在结构上“松耦合”，而在</p>
-<p>功能上则表现为一个统一的整体。这种所谓的“统一的整体”表现出来的是统一风格的界面，统一的权限管</p>
-<p>理，统一的安全策略，统一的上线过程，统一的日志和审计方法，统一的调度方式，统一的访问入口等等。</p>
+<p>（1）微服务，关键其实不仅仅是微服务本身，而是系统要提供一套基础的架构，这种架构使得微服务可以独立的部署、运行、升级，不仅如此，这个系统架构还让微服务与微服务之间在结构上“松耦合”，而在功能上则表现为一个统一的整体。这种所谓的“统一的整体”表现出来的是统一风格的界面，统一的权限管理，统一的安全策略，统一的上线过程，统一的日志和审计方法，统一的调度方式，统一的访问入口等等。</p>
 <p>（2）微服务的目的是有效的拆分应用，实现敏捷开发和部署 。 </p>
 <p>（3）微服务提倡的理念团队间应该是 inter-operate, not integrate 。inter-operate是定义好系统的边界</p>
 <p>和接口，在一个团队内全栈，让团队自治，原因就是因为如果团队按照这样的方式组建，将沟通的成本</p>
 <p>维持在系统内部，每个子系统就会更加内聚，彼此的依赖耦合能变弱，跨系统的沟通成本也就能降低。</p>
 <p><strong>5</strong>、什么样的项目适合微服务</p>
-<p>微服务可以按照业务功能本身的独立性来划分，如果系统提供的业务是非常底层的，如：操作系统内</p>
-<p>核、存储系统、网络系统、数据库系统等等，这类系统都偏底层，功能和功能之间有着紧密的配合关</p>
-<p>系，如果强制拆分为较小的服务单元，会让集成工作量急剧上升，并且这种人为的切割无法带来业务上</p>
-<p>的真正的隔离，所以无法做到独立部署和运行，也就不适合做成微服务了。</p>
+<p>微服务可以按照业务功能本身的独立性来划分，如果系统提供的业务是非常底层的，如：操作系统内核、存储系统、网络系统、数据库系统等等，这类系统都偏底层，功能和功能之间有着紧密的配合关系，如果强制拆分为较小的服务单元，会让集成工作量急剧上升，并且这种人为的切割无法带来业务上的真正的隔离，所以无法做到独立部署和运行，也就不适合做成微服务了。</p>
 <p><strong>6</strong>、微服务开发框架</p>
 <p>目前微服务的开发框架，最常用的有以下四个：</p>
 <p>Spring Cloud：<a target="_blank" rel="noopener" href="http://projects.spring.io/spring-cloud%EF%BC%88%E7%8E%B0%E5%9C%A8%E9%9D%9E%E5%B8%B8%E6%B5%81%E8%A1%8C%E7%9A%84%E5%BE%AE%E6%9C%8D%E5%8A%A1%E6%9E%B6%E6%9E%84%EF%BC%89">http://projects.spring.io/spring-cloud（现在非常流行的微服务架构）</a></p>
@@ -1111,8 +1092,8 @@
                 
                 <div class="card-action article-tags">
                     
-                    <a href="/tags/SpringSercurity-Shiro/">
-                        <span class="chip bg-color">SpringSercurity - Shiro</span>
+                    <a href="/tags/SpringSecurity-Shiro/">
+                        <span class="chip bg-color">SpringSecurity - Shiro</span>
                     </a>
                     
                 </div>
@@ -1343,7 +1324,7 @@
         <div class="col s12 m8 l8 copy-right">
             Copyright&nbsp;&copy;
             
-                <span id="year">2022</span>
+                <span id="year">2022-2023</span>
             
             <a href="/about" target="_blank">xiejp</a>
             |&nbsp;Powered by&nbsp;<a href="https://hexo.io/" target="_blank">Hexo</a>
@@ -1351,7 +1332,7 @@
             <br>
             
                 &nbsp;<i class="fas fa-chart-area"></i>&nbsp;站点总字数:&nbsp;<span
-                        class="white-color">67.9k</span>
+                        class="white-color">69.5k</span>
             
             
             
@@ -1679,12 +1660,12 @@ $(function () {
     <script src="/libs/instantpage/instantpage.js" type="module"></script>
     
 
-<script src="/live2dw/lib/L2Dwidget.min.js?094cbace49a39548bed64abff5988b05"></script><script>L2Dwidget.init({"model":{"scale":1,"hHeadPos":0.5,"vHeadPos":0.618,"jsonPath":"/live2dw/assets/assets/hibiki.model.json"},"display":{"superSample":2,"width":150,"height":600,"position":"left","hOffset":50,"vOffset":50},"mobile":{"show":true,"scale":0.35},"react":{"opacity":0.65},"dialog":{"enable":true,"hitokoto":true},"log":false,"pluginJsPath":"lib/","pluginModelPath":"assets/","pluginRootPath":"live2dw/","tagMode":false});</script><script>
+<script>
             window.imageLazyLoadSetting = {
                 isSPA: false,
                 preloadRatio: 1,
                 processImages: null,
             };
-        </script><script>window.addEventListener("load",function(){var t=/\.(gif|jpg|jpeg|tiff|png)$/i,r=/^data:image\/[a-z]+;base64,/;Array.prototype.slice.call(document.querySelectorAll("img[data-original]")).forEach(function(a){var e=a.parentNode;"A"===e.tagName&&(e.href.match(t)||e.href.match(r))&&(e.href=a.dataset.original)})});</script><script>!function(n){n.imageLazyLoadSetting.processImages=o;var e=n.imageLazyLoadSetting.isSPA,i=n.imageLazyLoadSetting.preloadRatio||1,r=Array.prototype.slice.call(document.querySelectorAll("img[data-original]"));function o(){e&&(r=Array.prototype.slice.call(document.querySelectorAll("img[data-original]")));for(var t,a=0;a<r.length;a++)0<=(t=(t=r[a]).getBoundingClientRect()).bottom&&0<=t.left&&t.top<=(n.innerHeight*i+240||document.documentElement.clientHeight*i+240)&&function(){var t,e,n,i,o=r[a];t=o,e=function(){r=r.filter(function(t){return o!==t})},n=new Image,i=t.getAttribute("data-original"),n.onload=function(){t.src=i,e&&e()},t.src!==i&&(n.src=i)}()}o(),n.addEventListener("scroll",function(){var t,e;t=o,e=n,clearTimeout(t.tId),t.tId=setTimeout(function(){t.call(e)},500)})}(this);</script></body>
+        </script><script>window.addEventListener("load",function(){var t=/\.(gif|jpg|jpeg|tiff|png)$/i,r=/^data:image\/[a-z]+;base64,/;Array.prototype.slice.call(document.querySelectorAll("img[data-original]")).forEach(function(a){var e=a.parentNode;"A"===e.tagName&&(e.href.match(t)||e.href.match(r))&&(e.href=a.dataset.original)})});</script><script>!function(n){n.imageLazyLoadSetting.processImages=o;var e=n.imageLazyLoadSetting.isSPA,i=n.imageLazyLoadSetting.preloadRatio||1,r=Array.prototype.slice.call(document.querySelectorAll("img[data-original]"));function o(){e&&(r=Array.prototype.slice.call(document.querySelectorAll("img[data-original]")));for(var t,a=0;a<r.length;a++)0<=(t=(t=r[a]).getBoundingClientRect()).bottom&&0<=t.left&&t.top<=(n.innerHeight*i+240||document.documentElement.clientHeight*i+240)&&function(){var t,e,n,i,o=r[a];t=o,e=function(){r=r.filter(function(t){return o!==t})},n=new Image,i=t.getAttribute("data-original"),n.onload=function(){t.src=i,e&&e()},t.src!==i&&(n.src=i)}()}o(),n.addEventListener("scroll",function(){var t,e;t=o,e=n,clearTimeout(t.tId),t.tId=setTimeout(function(){t.call(e)},500)})}(this);</script><script src="/live2dw/lib/L2Dwidget.min.js?094cbace49a39548bed64abff5988b05"></script><script>L2Dwidget.init({"model":{"scale":1,"hHeadPos":0.5,"vHeadPos":0.618,"jsonPath":"/live2dw/assets/assets/hibiki.model.json"},"display":{"superSample":2,"width":150,"height":600,"position":"left","hOffset":50,"vOffset":50},"mobile":{"show":true,"scale":0.35},"react":{"opacity":0.65},"dialog":{"enable":true,"hitokoto":true},"log":false,"pluginJsPath":"lib/","pluginModelPath":"assets/","pluginRootPath":"live2dw/","tagMode":false});</script></body>
 
 </html>
